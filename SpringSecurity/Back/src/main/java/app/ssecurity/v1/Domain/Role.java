@@ -1,4 +1,4 @@
-package app.ssecurity.v1.Domains;
+package app.ssecurity.v1.Domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
